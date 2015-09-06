@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVCDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_text">Enter text:</string>
+    <string name="input_hint">Enter your text here...</string>
+    <string name="button_title">Add</string>
+</resources>
