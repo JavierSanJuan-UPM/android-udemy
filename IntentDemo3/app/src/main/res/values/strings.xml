@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDemo3</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Detail...</string>
+    <string name="button1_text">One</string>
+    <string name="button2_text">Two</string>
+</resources>
