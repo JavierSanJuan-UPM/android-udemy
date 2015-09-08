@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recursos</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="button1_text">Botón 1</string>
+    <string name="button2_text">Botón 2</string>
+    <string name="text1">Botón 1 pulsado</string>
+    <string name="text2">Botón 2 pulsado</string>
+</resources>

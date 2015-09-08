@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_text">Button 1</string>
+    <string name="button2_text">Button 2</string>
+    <string name="text1">Button 1 clicked</string>
+    <string name="text2">Button 2 clicked</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonOnClick</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Click me!</string>
+    <string name="textview_text">Click the button below:</string>
+    <string name="textview_thanks_text">Thanks for clicking!</string>
+</resources>
